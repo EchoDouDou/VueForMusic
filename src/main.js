@@ -9,6 +9,9 @@ import './common/stylus/index.styl'
 import VueLazyLoad from 'vue-lazyload'
 import store from './store'
 
+import vConsole from 'vconsole'
+console.log('test')
+
 //Vue.config.productionTip = false
 fastclick.attach(document.body)
 //Vue.use(VueRouter)

@@ -1,2 +1,2 @@
 # VueForMusic
-A music WebApp
+A music WapApp
